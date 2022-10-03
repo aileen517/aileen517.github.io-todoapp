@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aileen517.github.io-todoapp/static/css/main.ccfc693c.css",
+    "main.js": "/aileen517.github.io-todoapp/static/js/main.1c29a3d9.js",
+    "static/js/787.7ab45602.chunk.js": "/aileen517.github.io-todoapp/static/js/787.7ab45602.chunk.js",
+    "index.html": "/aileen517.github.io-todoapp/index.html",
+    "main.ccfc693c.css.map": "/aileen517.github.io-todoapp/static/css/main.ccfc693c.css.map",
+    "main.1c29a3d9.js.map": "/aileen517.github.io-todoapp/static/js/main.1c29a3d9.js.map",
+    "787.7ab45602.chunk.js.map": "/aileen517.github.io-todoapp/static/js/787.7ab45602.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccfc693c.css",
+    "static/js/main.1c29a3d9.js"
+  ]
+}
